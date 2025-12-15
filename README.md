@@ -1,17 +1,11 @@
 ## TEJAS MUNJAL 👋
- 💫 About Me:
+  About Me:
 
 Passionate DevOps &amp; Cloud Engineer with hands-on experience in CI/CD automation, cloud infrastructure, containerization, and DevSecOps practices. Skilled in building scalable, secure, and production-ready systems using modern cloud and automation tools. A quick learner and strong problem-solver who thrives in fast-paced engineering environments.
 
-[🔧 Tech Stack ]
-•CI/CD: Azure DevOps, Jenkins, GitLab CI/CD
-•Infrastructure as Code: Terraform, Ansible
-•Cloud: Azure, AWS
-•Containers &amp; Orchestration: Docker, Kubernetes
-•Monitoring &amp; Observability: Prometheus, Grafana
-•Security &amp; Code Quality: Trivy, SonarQube•Version Control: Git, GitHub, Azure DevOps, GitLab
-•Scripting &amp; Programming: Bash, Java, C, SQL
-•Operating Systems: Linux, Windows
+Skills: Azure DevOps, Jenkins, GitLab CI/CD, Terraform, Ansible, Azure, AWS, Docker, Kubernetes
+Prometheus, Grafana, Trivy, SonarQube, Git, GitHub, GitLab, Bash, Java, C, SQL, Linux, Windows
+
 
 [🧠 Soft Skills]
 •Problem Solving
@@ -23,11 +17,13 @@ Passionate DevOps &amp; Cloud Engineer with hands-on experience in CI/CD automat
 
 [ 📩 Contact ]
 Email: tejasmunjal@gmail.com
+
 Phone: +91 7058330310
 
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasm45?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 (mailto:tejasmunjal@gmail.com) 
 
